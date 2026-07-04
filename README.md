@@ -178,26 +178,6 @@ Most orders are successfully delivered with only a small percentage being cancel
 
 ---
 
-# 📂 Project Assets
-
-## Dashboard Overview
-
-![](assets/dashboard-overview.png)
-
----
-
-## Monthly Sales Analysis
-
-![](assets/monthly-sales.png)
-
----
-
-## State-wise Sales Analysis
-
-![](assets/state-analysis.png)
-
----
-
 # 📌 Conclusion
 
 This project demonstrates how Microsoft Excel can be used as a Business Intelligence tool to build an interactive dashboard for analyzing sales performance, customer behavior, and operational efficiency. It enables stakeholders to make informed decisions through dynamic visualizations and interactive filtering.
