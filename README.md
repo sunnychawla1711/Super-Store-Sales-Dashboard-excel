@@ -1,12 +1,5 @@
 # 🛍️ Super Store Sales Dashboard
 
-![Excel](https://img.shields.io/badge/Microsoft-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power-Query-yellow?style=for-the-badge)
-![Power Pivot](https://img.shields.io/badge/Power-Pivot-blue?style=for-the-badge)
-![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-orange?style=for-the-badge)
-
----
-
 ## 📌 Project Overview
 
 The **Super Store Sales Dashboard** is an interactive Business Intelligence dashboard developed in **Microsoft Excel** to analyze sales performance, customer demographics, order status, sales channels, and regional performance.
