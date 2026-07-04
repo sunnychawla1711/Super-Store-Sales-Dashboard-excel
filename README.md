@@ -184,6 +184,7 @@ This project demonstrates how Microsoft Excel can be used as a Business Intellig
 Aspiring Data Analyst
 
 📧 Connect with me on LinkedIn and GitHub.
+
 LinkedIn : https://www.linkedin.com/in/sunny-chawla1711/
 
 ⭐ If you like this project, consider giving it a Star!
